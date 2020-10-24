@@ -1,6 +1,9 @@
 # Unity-Project---Hooray
 
-This game is one of my first unity projects.
+Hooray is one of my first unity projects.
+
+The main goal is to avoid obsticales and enemies and get to the green cube.
+Along the way you can (and need) to collect tokens, HOORAY letters and coins.
 
 Here are some ingame pics:
 
